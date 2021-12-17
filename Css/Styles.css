@@ -196,7 +196,7 @@ header{
 /* these combination of techniques are used to organize and style the portfolio part of my webpages*/
 .portfolio {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 900px));
 }
 
 .portfolio__item {
